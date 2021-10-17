@@ -12,6 +12,7 @@ Hi! Nice to meet you,
 ### What I'm currently learning:
 
 <img src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h.jpg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
